@@ -1,0 +1,17 @@
+.nav{
+    /* fix inside the banner image in a transparent mode */
+    position: relative;
+
+    width: 100%;
+    top: 0;
+    /* position: fixed; */
+    padding-left: 0.3rem;
+    padding-top: 0.6rem;
+    z-index: 1;
+    height: 20px;
+    background-color: transparent;
+    
+}
+.netflix{
+    background-color: transparent;
+}

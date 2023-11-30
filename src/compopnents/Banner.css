@@ -1,0 +1,23 @@
+.banner_content{
+    /* display like netflix */
+  padding-top: 350px;
+ padding-left: 3rem;
+ width: 45rem;
+ background: transparent;
+
+    
+    
+}
+.banner_content h1{
+    font-size: 2.8rem;
+    color:#fff;
+    background: transparent;
+    margin-bottom: 10px;
+  
+}
+.banner_content h2{
+    color: #fff;
+    background: transparent;
+    padding-top: .5rem;
+    font-size: 1.2rem;
+}
